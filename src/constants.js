@@ -144,8 +144,8 @@ export const SkillsInfo = [
         "I developed a personal portfolio website using React.js to showcase my projects, skills, and contact information. The site features a responsive design, smooth animations, and interactive UI for a professional online presence.",
       image: PortfolioLogo,
       tags: ["React.jS", "Email.js", "TailwindCss"],
-      github: "https://github.com/JyotiBodkhe/Portfolio",
-      webapp: "https://portfolio-p8gx.onrender.com",
+      github: "https://github.com/krishjain-23/my-portfolio",
+      webapp: "https://my-portfolio-4ah8.onrender.com",
     },
 
     {
